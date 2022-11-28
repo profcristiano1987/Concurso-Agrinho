@@ -1,5 +1,5 @@
 header {
-    background: #AABBCC;
+    background: #7598e3;
     padding: 5px 0;
 }
 
@@ -38,7 +38,7 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    background: #CCCCCC;
+    background: #c68a8a;
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
@@ -76,12 +76,12 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-color: #CCCCCC;
+    background-color: #9bd5e2;
     padding: 40px 0;
 }
 
 .copyright {
     color:black;
-    font-size: 25px;
+    font-size: 20px;
     margin: 20px 0 0;
 }
